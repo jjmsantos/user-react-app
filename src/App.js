@@ -14,6 +14,7 @@ function App() {
 			];
 		});
 	};
+
 	return (
 		<Fragment>
 			<AddUser onAddUser={AddUserHandler} />
